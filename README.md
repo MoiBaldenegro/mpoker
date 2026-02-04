@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github.com/MoiBaldenegro/mpoker/blob/main/public/tauri.svg" alt="Tauri Logo" width="100" />
-  <img src="https://rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust Logo" width="150" />
+  <img src="https://rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust Logo" width="140" />
   <br />
   <p><b>Una experiencia de Poker elegante y rápida para tu escritorio, construida con la potencia de Rust y la agilidad de Tauri.</b></p>
 </div>
